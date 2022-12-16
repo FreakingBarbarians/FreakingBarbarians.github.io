@@ -1,0 +1,10 @@
+.horizontal-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 1em;
+}
+
+.bottomAlignedContainer {
+    display: flex;
+    align-self: flex-end;
+}
