@@ -1,10 +1,9 @@
 .container {
     margin: auto;
     max-width: 800px;
-    font-family: sans-serif;
 }
 .heading {
-    color: rebeccapurple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .nav-links {
     display: flex;
@@ -15,5 +14,4 @@
     padding-right: 2rem;
 }
 .nav-link-text {
-    color: black;
 }

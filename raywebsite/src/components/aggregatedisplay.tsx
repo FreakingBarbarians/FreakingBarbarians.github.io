@@ -2,7 +2,11 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import {
   horizontalContainer,
-  bottomAlignedContainer
+  bottomAlignedContainer,
+  dateCSS,
+  slugCSS,
+  titleCSS,
+  displayContainer
 } from './aggregatedisplay.module.css'
 
 import './aggregatedisplay.css'
@@ -13,11 +17,11 @@ const AggregateDisplay = ({slug, title, date, html}) => {
   return (
     <div>
         <div className={horizontalContainer}>
-          <span className={bottomAlignedContainer}><h4>{title}</h4></span>
-          <span className={bottomAlignedContainer}>{date}</span>
-          <span className={bottomAlignedContainer}>{slug}</span>
+          <span className={bottomAlignedContainer}><Link to={slug} className={titleCSS}>{title}</Link></span>
+          <span className={dateCSS}>{date}</span>
+          <span className={slugCSS}><Link className={slugCSS} to={slug}>{slug}</Link></span>
         </div>
-        <div dangerouslySetInnerHTML={{ __html: html }}></div>
+        <div className={displayContainer} dangerouslySetInnerHTML={{ __html: html }}></div>
         <hr></hr>
     </div>
   )

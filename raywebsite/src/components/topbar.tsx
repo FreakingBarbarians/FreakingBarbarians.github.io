@@ -15,16 +15,12 @@ let links = [
       link: "/"
     },
     {
-      name: "Contact",
-      link: "/contact"
-    },
-    {
-      name: "Stories",
-      link: "/stories"
-    },
-    {
       name: "Blargh",
       link: "/blog"
+    },
+    {
+      name: "Contact",
+      link: "/contact"
     },
   ]
 

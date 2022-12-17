@@ -1,3 +1,21 @@
+.displayContainer {
+    overflow: hidden;
+    position: relative;
+    max-height: min(300px, 16vw);
+}
+
+.displayContainer:after{
+    content: "";
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    pointer-events: none;
+    background-image: linear-gradient(to bottom, rgba(245,245,245,0), rgba(245,245,245, 1) 90%);
+    width: 100%;
+    height: 4em;
+}
+
 .horizontal-container {
     display: flex;
     justify-content: space-between;
@@ -7,4 +25,57 @@
 .bottomAlignedContainer {
     display: flex;
     align-self: flex-end;
+}
+
+.monospaced {
+    font-family: "Andale Mono", monospace;
+    display: flex;
+    align-self: flex-end;
+    font-size: min(14px, 2vw);
+}
+
+.title-CSS {
+    color: rgb(106, 95, 128);
+    padding: 0%;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    vertical-align: bottom;
+    font-size: min(32px, 6vw);
+}
+
+.title-CSS:link {
+    text-decoration: none;
+}
+
+.title-CSS:visited{
+    color: #c4b2d3;
+    text-decoration: none;
+}
+
+.title-CSS:hover {
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+.title-CSS:active {
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+.slug-CSS {
+    font-family: "Andale Mono", monospace;
+    display: flex;
+    align-self: flex-end;
+    font-size: min(14px, 2vw);
+    color: darkolivegreen;
+    text-decoration: none;
+}
+
+.date-CSS {
+    font-family: "Andale Mono", monospace;
+    display: flex;
+    align-self: flex-end;
+    font-size: min(14px, 2vw);
+    color: orangered;
 }

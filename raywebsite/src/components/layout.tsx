@@ -3,9 +3,6 @@ import { Link } from 'gatsby'
 import {
   container,
   heading,
-  navLinks,
-  navLinkItem,
-  navLinkText
 } from './layout.module.css'
 import TopBar from './topbar'
 

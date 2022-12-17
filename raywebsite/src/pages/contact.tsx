@@ -4,11 +4,13 @@ import Layout from '../components/layout'
 const ContactPage = () => {
     return (
         <Layout pageTitle="Contact">
-            <p>Under construction...</p>
+            <p>I'm still trying to figure out how email servers work...
+            <br></br><br></br>
+            In the meantime I recommend using your imagination.</p>
         </Layout>
     )
 }
 
-export const Head = () => <title>Contact</title>
+export const Head = () => <title>Please don't contact me ;w;</title>
 
 export default ContactPage

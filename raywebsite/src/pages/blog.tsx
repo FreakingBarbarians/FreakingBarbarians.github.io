@@ -21,7 +21,7 @@ const BlogPage = ( {data} ) => {
 
 export const pageQuery = graphql`
 query MyQuery {
-  allMarkdownRemark {
+  allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
     nodes {
       frontmatter {
         date
@@ -34,6 +34,6 @@ query MyQuery {
 }
 `
 
-export const Head = () => <title>Blog</title>
+export const Head = () => <title>Blargh - not quite a blog</title>
 
 export default BlogPage
