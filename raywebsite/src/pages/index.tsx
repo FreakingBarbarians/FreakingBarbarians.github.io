@@ -19,9 +19,10 @@ class IndexPage extends React.Component {
             <p>
               I built this over a few days during downtime visting my family for christmas. It's my first foray into web development, having lots of fun so far ^_^
               <br></br><br></br>
-              Right now it just has my <b><Link to='\blog'>blargh</Link></b>, like a blog with a much lower <em>thought barrier</em> to entry.
+              Right now it just has my <b><Link to='/blog'>blargh</Link></b>, like a blog with a much lower <em>thought barrier</em> to entry.
+              <br></br>The blargh will be a mishmash of all the thoughts I have that I think are worth sharing. It's really an <b><Link to="/blog-purpose-and-audience">exercise in bravery</Link></b>.
               <br></br><br></br>
-              I also wanted to host a lot of cool pictures here. Ther will be lots of pics my family dog <span style={{color: 'orange'}}>Kira</span>.
+              I also wanted to host a lot of cool pictures here. There will be lots of pics my family dog <span style={{color: 'orange'}}>Kira</span>.
               <br></br><br></br>
               The contacts section is still under construction. If you're reading this chances are you're a close friend or family member so you wouldn't need it anyways. (or you're in graphics and wondering who's squatting on the domain name. In which case its me 😈).
               <br></br><br></br>
