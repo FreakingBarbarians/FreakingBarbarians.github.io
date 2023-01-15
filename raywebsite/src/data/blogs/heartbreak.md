@@ -7,10 +7,13 @@ title: "Thoughts on Heartbreak"
 ## On Heartbreak and Love
 
 Yesterday I experienced heartbreak. And I came home feeling like a thing incapable of being loved by anyone. All the light in my life seemed to have been chased out, cast under great shadow. And all beautiful things turned formless and dim.
+<br><br>
+Were there a pile of gems that glittered at my feet I would have passed them unnoticed.
+<br>
+You cannot see very far in the dark.
+<br><br>
+In my despair I wrote a poem. Which for me is a good way to cope. Thinking about things may put the thoughts out but not the feelings. You need to pour your feelings into something to understand them better. A friend taught me that.<br><br>
 
-<br><br>Were there a pile of gems that glittered at my feet I would have passed them unnoticed. <br> You cannot see very far in the dark.
-
-<br><br>In my despair I wrote a poem. Which for me is a good way to cope. Thinking about things may put the thoughts out but not the feelings. You need to pour your feelings into something to understand them better. A friend taught me that.<br><br>
 
 ---
 
@@ -32,7 +35,7 @@ Yesterday I experienced heartbreak. And I came home feeling like a thing incapab
 >How could it dare<br>
 
 >And the coal that is burned again and again<br>
->What mercy, what kindness can it then defend<br>
+>What mercy, what kindness can it then defend?<br>
 >Against a world so unfair burned now to sinters,<br>
 >Where green glens gone, combusted to splinters<br>
 
@@ -47,14 +50,16 @@ Yesterday I experienced heartbreak. And I came home feeling like a thing incapab
 >forever and a day<br>
 ---
 
-I reached out to a few friends then, and was met with an outpouring of love and support. And for that I am grateful. They reminded me of dim things in the distance that were once bright under day, and that the sun would rise again. And some others gave me<br><br>
+I reached out to a few friends then, and was met with an outpouring of love and support. And for that I am grateful. They reminded me of dim things in the distance that were once bright under day, and that the sun would rise again. And some others gave me
 advice on exactly what to do with the pain I was experiencing.<br><br>
 
 You need to feel it. And I believe that is the thing to do. And there is great wisdom in that. I believe that If you were to push away these feelings, ignore them, you train yourself to be tough and distant. For you either accept the pain or delude yourself with thoughts such as: why me, life is unfair, when will it be my turn, the world is backwards. Or you fill your mind with thoughts of ill woe towards those who caused the heartbreak. These thoughts are poisonous, and to pay heed to them would be to stray from the path of wisdom. And they would not heal you, though they would comfort you. It would be wrapping many bands of iron over the wound and then forgetting about it, and where once was warm and soft now is cold hard metal.<br><br>
 
 "Take the L" as she said, you need at least one to spell love. And if you take many then you may write it many times over[^1].<br><br>
 
-And it was in the lasting warmth from them that I wrote my second poem that day.<br><br>
+Others still spent the rest of the night with me, nursing me back to good spirits. And it is only with them that I began to really feel it. To let the pain in, in a safe place.<br><br>
+
+And it was in the lasting warmth from all my friends that I wrote my second poem that day.<br><br>
 
 ---
 
